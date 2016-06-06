@@ -3,6 +3,10 @@ php-i18nlint
 
 A tool for checking for common gettext style translation errors in php files.
 
+Setup:
+```
+php composer.phar install
+```
 
 Usage:
 ```
